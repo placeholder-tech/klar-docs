@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Klar Documentation',
   tagline: 'The all-in-one reporting solution to grow your direct-to-consumer business.',
-  url: 'https://placeholder-tech.github.io',
+  url: 'https://docs.getklar.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
