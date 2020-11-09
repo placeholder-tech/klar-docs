@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{60:function(a){a.exports=JSON.parse('{"allTagsPath":"/klar-demo/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/klar-demo/blog/tags/hola"}')}}]);
