@@ -18,9 +18,25 @@ In order to connect a Google Analytics account as a datasource for Klar you need
 
    ![Google Analytics: 1](/img/assets/google-analytics/google-analytics-1.png)
 
-3. Your View ID is to be found in the Views section below the name of the view (e.g. “All Web Site Data”), e.g. _123456789_.
+3. Your View ID is to be found in the Views section below the name of the view (e.g. “All Web Site Data”), e.g. _123456789_. Please copy and paste that View ID as you'll need it later to configure your datasource in Klar.
 
    ![Google Analytics: 2](/img/assets/google-analytics/google-analytics-2.png)
+
+4. Go to the Admin section of Google Analytics.
+
+   ![Google Analytics: 2a](/img/assets/google-analytics/google-analytics-2a.png)
+
+5. In the 'View' column, click on "View User Management".
+
+   ![Google Analytics: 2b](/img/assets/google-analytics/google-analytics-2b.png)
+
+6. Click the "+"-Button and then click on "Add Users".
+
+![Google Analytics: 2c](/img/assets/google-analytics/google-analytics-2c.png)
+
+7. Enter `klar-653@invertible-star-288412.iam.gserviceaccount.com` as an email address for the user (1), make sure "Read & Analyse" is selected as a permission for the user (2) and then click "Add" (3).
+
+![Google Analytics: 2d](/img/assets/google-analytics/google-analytics-2d.png)
 
 ---
 
