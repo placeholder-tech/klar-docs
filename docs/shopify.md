@@ -54,6 +54,10 @@ Official Shopify documentation on [setting up a Private App](https://help.shopif
 
 ![Shopify: 5](/img/assets/shopify/shopify-5.png)
 
+`Inventory (Access scope: read_inventory)`: Read access
+
+![Shopify: 5](/img/assets/shopify/shopify-5a.png)
+
 `Orders (Access scope: read_orders)`: Read access
 
 ![Shopify: 5](/img/assets/shopify/shopify-7.png)
