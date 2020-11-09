@@ -2,7 +2,7 @@ module.exports = {
   title: 'Klar Documentation',
   tagline: 'The all-in-one reporting solution to grow your direct-to-consumer business.',
   url: 'https://placeholder-tech.github.io',
-  baseUrl: '/klar-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'placeholder-tech', // Usually your GitHub org/user name.
