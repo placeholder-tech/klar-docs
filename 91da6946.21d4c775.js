@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{74:function(l){l.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/klar-docs/blog/welcome"},{"title":"Hello","permalink":"/klar-docs/blog/hello-world"},{"title":"Hola","permalink":"/klar-docs/blog/hola"}]}')}}]);
