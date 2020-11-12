@@ -53,8 +53,10 @@ module.exports = {
               label: 'Shopify',
               to: '/docs/shopify',
             },
-            
-            
+            {
+              label: 'Klaviyo',
+              to: '/docs/klaviyo',
+            },
           ],
         },
         {
