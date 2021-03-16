@@ -54,21 +54,38 @@ Official Shopify documentation on [setting up a Private App](https://help.shopif
 
 ![Shopify: 5](/img/assets/shopify/shopify-5.png)
 
+`Discounts (Access scope: read_discounts)`: Read access
+
+![Shopify: 18](/img/assets/shopify/shopify-18.png)
+
 `Inventory (Access scope: read_inventory)`: Read access
 
-![Shopify: 5](/img/assets/shopify/shopify-5a.png)
+![Shopify: 5a](/img/assets/shopify/shopify-5a.png)
+
+`Locations (Access scope: read_locations)`: Read access
+
+![Shopify: 19](/img/assets/shopify/shopify-19.png)
+
+`Marketing events (Access scope: read_marketing_events)`:   
+Read access
+
+![Shopify: 8](/img/assets/shopify/shopify-8.png)
 
 `Orders (Access scope: read_orders)`: Read access
 
 ![Shopify: 5](/img/assets/shopify/shopify-7.png)
 
-`Marketing events (Access scope: read_marketing_events)`: Read access
+`Price rules (Access scope: read_price_rules)`: Read access
 
-![Shopify: 8](/img/assets/shopify/shopify-8.png)
+![Shopify: 20](/img/assets/shopify/shopify-20.png)
 
 `Products (Access scope: read_products)`: Read access
 
 ![Shopify: 9](/img/assets/shopify/shopify-9.png)
+
+`Product listings (Access scope: read_product_listings)`: Read access
+
+![Shopify: 21](/img/assets/shopify/shopify-21.png)
 
 7. Click the **Save**-Button
 
