@@ -87,6 +87,19 @@ Read access
 
 ![Shopify: 21](/img/assets/shopify/shopify-21.png)
 
+For German language settings: 
+
+* `Bestellungen (Zugriffsbereiche: read_orders)`: Lesezugriff
+* `Inventar (Zugriffsbereiche: read_inventory)`: Lesezugriff
+* `Kunden (Zugriffsbereiche: read_customers)`: Lesezugriff
+* `Marketing-Events (Zugriffsbereiche: read_marketing_events)`: Lesezugriff
+* `Preisregeln (Zugriffsbereiche: read_price_rules)`: Lesezugriff
+* `Produktangebote (Zugriffsbereiche: read_product_listings)`: Lesezugriff
+* `Produkte (Zugriffsbereiche: read_products)`: Lesezugriff
+* `Rabatte (Zugriffsbereiche: read_discounts)`: Lesezugriff
+* `Standorte (Zugriffsbereiche: read_locations)`: Lesezugriff
+* `Statistiken (Zugriffsbereiche: read_analytics)`: Lesezugriff
+
 7. Click the **Save**-Button
 
 8. In the modal click **I understand, create the app**
