@@ -27,6 +27,7 @@ Klar currently supports the following third-party datasources as data providers 
 - Facebook
 - Klaviyo
 - Outbrain
+- Snapchat
 
 We're constantly working on adding more datasources to our platform.
 

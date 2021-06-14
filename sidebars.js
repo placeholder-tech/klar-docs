@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
     Klar: ['intro'],
-    Datasources: ['google-analytics', 'shopify', 'klaviyo'],
+    Datasources: ['google-analytics', 'shopify', 'klaviyo', 'snapchat'],
   },
 };

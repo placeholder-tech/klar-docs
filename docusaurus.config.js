@@ -39,7 +39,7 @@ module.exports = {
               label: 'Introduction',
               to: '/',
             },
-            
+
           ],
         },
         {
@@ -56,6 +56,10 @@ module.exports = {
             {
               label: 'Klaviyo',
               to: '/docs/klaviyo',
+            },
+            {
+              label: 'Snapchat',
+              to: '/docs/snapchat',
             },
           ],
         },
